@@ -1,3 +1,8 @@
+#By: Sabria Fafach
+#Date: April 4, 2025
+#Title: bankaccount.py
+
+
 class BankAccount:
 
     def __init__(self,bal):
